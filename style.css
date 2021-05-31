@@ -6,6 +6,10 @@ body {
   position: absolute;
   /* border: 1px solid white; */
 }
+.coordinate-numb {
+  color: white;
+  position: absolute;
+}
 .horisontal {
   position: absolute;
   width: 100%;
