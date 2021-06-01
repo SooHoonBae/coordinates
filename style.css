@@ -4,6 +4,7 @@ body {
 }
 .target {
   position: absolute;
+  margin: auto;
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
@@ -12,9 +13,9 @@ body {
 .coordinate-numb {
   color: white;
   position: absolute;
-  top: 50%;
   left: 50%;
-  transform: translate(20px, 20px);
+  top: 50%;
+  /* transform: translate(20px, 20px); */
 }
 .line {
   position: absolute;
